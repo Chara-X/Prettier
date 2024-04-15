@@ -1,0 +1,10 @@
+{
+  "Array": [1, 2, 3, 4, 5],
+  "User": {
+"name": "John",
+"age": 30,
+"isAdmin": false,
+"courses": ["html", "css", "js"],
+"wife": null
+}
+}
